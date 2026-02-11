@@ -1,0 +1,19 @@
+{
+  "name": "nike-clone",
+  "version": "1.0.0",
+  "description": "It is a Clone of Nike Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhanwi/Nike-Clone.git"
+  },
+  "author": "Jhanwi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jhanwi/Nike-Clone/issues"
+  },
+  "homepage": "https://github.com/Jhanwi/Nike-Clone#readme"
+}
